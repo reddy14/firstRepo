@@ -1,1 +1,1 @@
-"Hello Word :%time% : %date%"
+echo "Hello Word :%time% : %date%"
